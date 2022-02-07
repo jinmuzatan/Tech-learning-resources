@@ -8,7 +8,6 @@
 
 本仓库持续更新中，后续会陆续分享更多经典电子书，强烈建议大家 Star 下本仓库，下次找资源更方便。
 
-
 ### 资源列表：
 
 - java:
@@ -141,6 +140,6 @@ part 2:
 
 ### 关于作者
 
-- 【公众号】：金木杂谈
+更多技术文章，敬请关注【公众号】：金木杂谈
 
-### 我的文章
+![Image text](https://github.com/jinmuzatan/Tech-learning-resources/blob/main/image/qrcode.jpg)
