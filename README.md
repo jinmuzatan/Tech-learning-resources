@@ -140,6 +140,6 @@ part 2:
 
 ### 关于作者
 
-更多技术文章，敬请关注【公众号】：金木杂谈
+关注【公众号】：金木杂谈，可获取资源下载地址及解压密码。
 
 ![Image text](https://github.com/jinmuzatan/Tech-learning-resources/blob/main/image/qrcode.jpg)
